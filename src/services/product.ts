@@ -2,7 +2,7 @@ import { products } from "@/data/products";
 import type { Product } from "@/types/Product";
 
 export const getAllProducts = async (): Promise<Product[]> => {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     setTimeout(() => {
       resolve(products)
     })
