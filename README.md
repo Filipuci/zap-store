@@ -1,4 +1,4 @@
-# Food Store React
+# Zap Store
 
 Aplicação front-end moderna desenvolvida com React, TypeScript, Zustand, TailwindCSS e shadcn/ui.
 
