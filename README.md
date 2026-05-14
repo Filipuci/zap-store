@@ -51,11 +51,11 @@ Aplicação front-end moderna desenvolvida com React, TypeScript, Zustand, Tailw
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Filipuci/food-store-react.git
+git clone https://github.com/Filipuci/zap-store.git
 
 Acesse a pasta:
 
-cd react-order-flow
+cd zap-store
 
 Instale as dependências:
 
